@@ -17,7 +17,7 @@
     "email": "raynos2@gmail.com"
   },
   "dependencies": {
-    "ecstatic": "~0.1.6",
+    "ecstatic": "git+https://github.com/KravchukVA/node-ecstatic.git#v0.1.6",
     "optimist": "~0.3.4",
     "filed": "0.0.7",
     "browserify": "~1.16.1"
